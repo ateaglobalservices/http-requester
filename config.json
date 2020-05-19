@@ -1,0 +1,7 @@
+{
+    "amount": 100,
+    "method": "GET",
+    "uri": "https://localhost/api/...",
+    "authorization": "Bearer ...",
+    "body": {}
+}
