@@ -1,7 +1,7 @@
 {
-    "amount": 100,
+    "requests_to_send": 1,
     "method": "GET",
-    "uri": "https://localhost/api/...",
-    "authorization": "Bearer ...",
+    "uri": "https://ateazephyr.com",
+    "headers": {},
     "body": {}
 }
